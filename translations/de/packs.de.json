@@ -36,12 +36,20 @@
         "name": "Chrome City"
     },
     {
+        "code": "cd",
+        "name": "Blutiger Staub"
+    },
+    {
         "code": "ce",
         "name": "Cyber-Exodus"
     },
     {
         "code": "core",
         "name": "Grundspiel"
+    },
+    {
+        "code": "cotc",
+        "name": "Gipfelrat"
     },
     {
         "code": "dad",
@@ -64,6 +72,10 @@
         "name": "Sonderzulage"
     },
     {
+        "code": "dtwn",
+        "name": "Den Weißen Nil hinab"
+    },
+    {
         "code": "eas",
         "name": "Erdenkind"
     },
@@ -78,6 +90,10 @@
     {
         "code": "fc",
         "name": "Erstkontakt"
+    },
+    {
+        "code": "fm",
+        "name": "Freiheit für Mars"
     },
     {
         "code": "fp",
@@ -98,6 +114,10 @@
     {
         "code": "in",
         "name": "Intervention"
+    },
+    {
+        "code": "ka",
+        "name": "Kampalas Aufstieg"
     },
     {
         "code": "kg",
@@ -128,12 +148,20 @@
         "name": "Quorum"
     },
     {
+        "code": "rar",
+        "name": "Herrschaft und Traum"
+    },
+    {
         "code": "si",
         "name": "Salsette-Insel"
     },
     {
         "code": "so",
         "name": "Station One"
+    },
+    {
+        "code": "ss",
+        "name": "Herrliche Aussichten"
     },
     {
         "code": "st",
@@ -150,6 +178,10 @@
     {
         "code": "td",
         "name": "Tödliche Direktive"
+    },
+    {
+        "code": "tdatd",
+        "name": "Der Teufel und der Drache"
     },
     {
         "code": "tlm",
@@ -182,6 +214,10 @@
     {
         "code": "val",
         "name": "Das Valley"
+    },
+    {
+        "code": "win",
+        "name": "Geflüster in Nalubaale"
     },
     {
         "code": "wla",
